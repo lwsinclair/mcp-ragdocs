@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/qpd-v-mcp-ragdocs-badge.png)](https://mseep.ai/app/qpd-v-mcp-ragdocs)
+
 # MCP-Ragdocs
 
 A Model Context Protocol (MCP) server that enables semantic search and retrieval of documentation using a vector database (Qdrant). This server allows you to add documentation from URLs or local files and then search through them using natural language queries.
